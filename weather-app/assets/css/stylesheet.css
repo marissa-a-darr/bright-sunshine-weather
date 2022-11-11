@@ -1,0 +1,64 @@
+.search-card {
+  border: solid 2px black;
+}
+
+.focused-weather {
+  border: solid 1px black;
+  margin-top: 15px;
+  margin-right: 200px;
+  margin-left: 300px;
+  justify-content: center;
+  padding: 10px;
+
+}
+
+#weather-icon {
+  height: auto; 
+  width: auto; 
+  max-width: 35px; 
+  max-height: 35px;
+  margin-top: -5px;
+}
+
+.search-btn {
+  width: 100%;
+  background-color: #6891e3;
+  color: white;
+}
+ul {
+  list-style: none;
+  margin: auto;
+}
+.recent-searches {
+  margin: auto;
+  top: 50%;
+
+}
+
+.recent-button {
+  padding: 2px;
+  margin: 5px;
+  justify-content: center;
+  width: 300px;
+}
+
+.future-days {
+  display: inline;
+ 
+}
+
+.card {
+  margin: 10px;
+  background-color: #323d4f;
+  color: white;
+}
+
+.future-weather-conditions-list {
+  margin-left: -36px;
+}
+.future-weather-icons {
+  height: auto; 
+  width: auto; 
+  max-width: 35px; 
+  max-height: 35px;
+}
